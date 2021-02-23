@@ -1,0 +1,43 @@
+.modal{
+	    box-shadow: none;
+	        background-color:initial;
+}
+.modal-lg {
+    width: 600px;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1280px;
+    width: 90%;
+}
+
+[type="checkbox"]:not(:checked), [type="checkbox"]:checked {
+    position:relative;
+     left: 0px; 
+     visibility: visible;
+}
+h5 {
+    font-size: 14px;
+}
+
+select{
+
+	width: 200px;
+}
+
+.dropdown-menu {
+min-width: 125px;
+
+	}
+	.dropdown-menu>li>a {
+
+	padding: 5px 42px 5px 35px ;
+}
+
+.table>thead>tr:last-child>
+{
+
+    text-align: center;
+
+}
